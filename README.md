@@ -1,15 +1,16 @@
-# 👋 Über mich:
+# 👋 Hey, ich bin Benjamin!
 
-Ich bin Benjamin – Schüler, Entwickler und KI-Tüftler.  
-Ich liebe es, Tools zu bauen, die mir (und anderen) wirklich helfen.  
-Egal ob KI, Webentwicklung oder Ethik in der Technik – ich bin immer am Basteln, Lernen oder einfach am Rumprobieren.  
-Ich entwickle oft eigene Versionen von Apps, weil ich Dinge gern selbst mache – besser, einfacher, günstiger.  
-Und ja: KI ist bei fast allem dabei 😎
+Ich bin ein Teenager aus Deutschland, der sich seit mehreren Jahren mit **Künstlicher Intelligenz** und **KI-Ethik** beschäftigt – und das ist nicht nur ein Hobby. Ich will das in Zukunft auch **beruflich machen**, weil ich das Thema unglaublich spannend finde. Und es viel Potenzial hat.
 
----
+## 💻 Was ich so mache:
 
-## 📬 Kontakt:
-[![E-Mail](https://img.shields.io/badge/E--Mail-D14836?logo=gmail&logoColor=white)](mailto:beckerbenjamin2010@gmail.com)
+Ich programmiere super gerne **Web-Apps**, meistens mit **JavaScript**, **HTML** und **CSS** – oft für mich selbst als Tools, die es sonst nur als kostenpflichtige Apps gibt. Ich baue sie mir dann einfach kostenlos nach – und das meistens mit KI, einfach weil ich’s entspannt finde, so zu coden. Wenn’s um Backend- oder KI-Logik geht, ist **Python** meine absolute Lieblingssprache. Damit kenne ich mich richtig gut aus.
+
+## 🤖 KI ist mein Ding:
+
+Ich integriere in viele meiner Projekte auch **Künstliche Intelligenz**, meistens über die **kostenlose Gemini-API**, weil ich gerne **alles kostenlos halte**, was ich selbst baue. Nicht, weil ich geizig bin – sondern weil ich gerne zeige, dass man auch _ohne großes Budget_ richtig gute Sachen auf die Beine stellen kann. (Und weil ich broke bin 😭)
+
+Wenn ich etwas Neues lerne, dann richtig. Ich bin voll dabei, bis ich’s kann – mit **Fokus**, **Durchhaltevermögen** und einem ganz klaren Ziel. Neue Technologien zu meistern, macht mir einfach Spaß.
 
 ---
 
@@ -20,18 +21,21 @@ Und ja: KI ist bei fast allem dabei 😎
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
----
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=017pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=017pixel&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=017pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+## 🚀 Mein größtes Projekt: BredAI
+
+> **BredAI** ist mein persönlicher KI-Chat- und Sprachassistent.  
+> Komplett im Browser umgesetzt – keine Serverkosten, keine Registrierung, alles lokal, alles smart.  
+> Ich habe ihn selbst gebaut, mit viel Herzblut, ganz viel Code und natürlich ein bisschen Hilfe von KI.
+
+## ✨ Warum ich das alles mache:
+
+Ich liebe es einfach, Dinge zu bauen, die funktionieren, die mir (und vielleicht auch anderen) helfen – und das am liebsten auf meine eigene Art. Ich bin immer offen für neue Ideen, neue Tools und neue Challenges.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=017pixel&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Erstellt mit ❤️ und ein bisschen KI -->
+📬 Schreib mir gerne: [beckerbenjamin2010@gmail.com](mailto:beckerbenjamin2010@gmail.com)  
+Ich bin immer offen für Austausch oder Feedback!
