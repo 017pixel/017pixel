@@ -28,8 +28,8 @@ Wenn ich etwas Neues lerne, dann richtig. Ich bin voll dabei, bis ich’s kann �
 ## 🚀 Mein größtes Projekt: BredAI
 
 > **BredAI** ist mein persönlicher KI-Chat- und Sprachassistent.  
-> Komplett im Browser umgesetzt – keine Serverkosten, keine Registrierung, alles lokal, alles smart.  
-> Ich habe ihn selbst gebaut, mit viel Herzblut, ganz viel Code und natürlich ein bisschen Hilfe von KI.
+> Komplett im Browser umgesetzt – keine Serverkosten, keine Registrierung, alles smart.  
+> Ich habe ihn selbst programmiert, mit viel Leidenschaft, ganz viel Code und natürlich ein bisschen Hilfe von KI. 
 
 ## ✨ Warum ich das alles mache:
 
