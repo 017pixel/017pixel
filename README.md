@@ -2,24 +2,50 @@
 
 Ich bin ein Teenager aus Deutschland, der sich seit mehreren Jahren mit **Künstlicher Intelligenz** und **KI-Ethik** beschäftigt – und das ist nicht nur ein Hobby. Ich will das in Zukunft auch **beruflich machen**, weil ich das Thema unglaublich spannend finde. Und es viel Potenzial hat.
 
-## 💻 Was ich so mache:
+--- 
 
-Ich programmiere super gerne **Web-Apps**, meistens mit **JavaScript**, **HTML** und **CSS** – oft für mich selbst als Tools, die es sonst nur als kostenpflichtige Apps gibt. Ich baue sie mir dann einfach kostenlos nach – und das meistens mit KI, einfach weil ich’s entspannt finde, so zu coden. Wenn’s um Backend- oder KI-Logik geht, ist **Python** meine absolute Lieblingssprache. Damit kenne ich mich richtig gut aus.
+```python
+import time
 
-## 🤖 KI ist mein Ding:
+name = "Benjamin"
+alter = 14
+hobbys = ["Programmieren", "Lernen", "Sport"]
 
-Ich integriere in viele meiner Projekte auch **Künstliche Intelligenz**, meistens über die **kostenlose Gemini-API**, weil ich gerne **alles kostenlos halte**, was ich selbst baue. Nicht, weil ich geizig bin – sondern weil ich gerne zeige, dass man auch _ohne großes Budget_ richtig gute Sachen auf die Beine stellen kann. (Und weil ich broke bin 😭)
+print(f"Ich bin {name} und bin {alter} Jahre alt.")
+time.sleep(1)
+print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
+```
 
-Wenn ich etwas Neues lerne, dann richtig. Ich bin voll dabei, bis ich’s kann – mit **Fokus**, **Durchhaltevermögen** und einem ganz klaren Ziel. Neue Technologien zu meistern, macht mir einfach Spaß.
+## 💻 Was ich so mache
+
+-  Ich baue gerne eigene Web-Apps mit **HTML**, **CSS** und **JavaScript** – oft als kostenlose Alternativen zu teuren Tools.  
+-  Beim Coden nutze ich häufig **KI-Unterstützung**, weil’s entspannt ist und mir hilft, schneller voranzukommen.  
+-  Für komplexere Logik oder KI-Zeug ist **Python** meine Lieblingssprache – bin darin auch relativ gut.
+
+---
+
+## 🤖 KI ist mein Ding
+
+-  Ich nutze oft **kostenlose KI-APIs** wie Gemini, um smarte Features in meine Projekte einzubauen.  
+-  Mein Ziel: Zeigen, dass man auch **ohne Geld** starke Projekte bauen kann – aus Prinzip (und vll, weil ich bissl broke bin 😭).  
+-  Wenn ich was lerne, dann richtig – mit Konzentration, Fokus und auch Spaß an neuer Technik!
+
+
 
 ---
 
 ## 💻 Meine Tools & Sprachen:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=017pixel&theme=dark&hide_border=false)
 
