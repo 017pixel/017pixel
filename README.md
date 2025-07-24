@@ -48,7 +48,7 @@ print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=017pixel&theme=dark&hide_border=false)
-![GitHub Snake](https://raw.githubusercontent.com/017pixel/017pixel/master/img/snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/017pixel/017pixel/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## 🚀 Mein größtes Projekt: BredAI
