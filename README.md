@@ -32,7 +32,7 @@ print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
 
 
 
----
+--- 
 
 ## 💻 Meine Tools & Sprachen:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,7 +48,7 @@ print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=017pixel&theme=dark&hide_border=false)
-![GitHub Snake](https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/017pixel/017pixel/master/img/snake-dark.svg)
 ---
 
 ## 🚀 Mein größtes Projekt: BredAI
