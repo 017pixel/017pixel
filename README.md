@@ -43,11 +43,12 @@ print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
----
+
 
 ## 🛠️ Kann ich nicht gut / lerne ich momentan
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 
 ## 🤖 Meine AI-Tools
@@ -55,6 +56,7 @@ print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-101828?style=for-the-badge&logo=Anthropic&logoColor=white)
+
 
 
 ## 💻 Meine Editoren / Plattformen
