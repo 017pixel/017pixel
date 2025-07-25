@@ -35,7 +35,6 @@ print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
 
 --- 
 
-## 💻 Meine Tools & Sprachen:
 ## ✅ Kann ich gut
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
