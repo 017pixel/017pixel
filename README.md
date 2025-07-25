@@ -1,5 +1,4 @@
 # 👋 Hey, ich bin Benjamin!
-
 Ich bin ein Jugendlicher aus Deutschland, der sich seit mehreren Jahren mit **Künstlicher Intelligenz** und **KI-Ethik** beschäftigt – und das ist nicht nur ein Hobby. Ich will das in Zukunft auch **beruflich machen**, weil ich das Thema unglaublich spannend finde. Und da es viel Potential in der Zukunft hat.
 
 **Ich lerne momentan** Kotlin für Android App Entwicklung. 
@@ -37,20 +36,41 @@ print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
 --- 
 
 ## 💻 Meine Tools & Sprachen:
+## ✅ Kann ich gut
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 🛠️ Kann ich nicht gut / lerne ich momentan
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+---
+
+## 🤖 Meine AI-Tools
+
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-101828?style=for-the-badge&logo=Anthropic&logoColor=white)
 
+---
 
+## 💻 Meine Editoren / Plattformen
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Gemini AI Studio](https://img.shields.io/badge/Gemini%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Firebase Studio](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ![](https://nirzak-streak-stats.vercel.app/?user=017pixel&theme=dark&hide_border=false)
-![GitHub Snake](https://raw.githubusercontent.com/017pixel/017pixel/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## 🚀 Mein größtes Projekt: BredAI
