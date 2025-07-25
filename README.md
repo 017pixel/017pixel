@@ -49,7 +49,6 @@ print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
----
 
 ## 🤖 Meine AI-Tools
 
@@ -57,7 +56,6 @@ print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-101828?style=for-the-badge&logo=Anthropic&logoColor=white)
 
----
 
 ## 💻 Meine Editoren / Plattformen
 
@@ -67,7 +65,6 @@ print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
 ![Firebase Studio](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ![](https://nirzak-streak-stats.vercel.app/?user=017pixel&theme=dark&hide_border=false)
 ---
