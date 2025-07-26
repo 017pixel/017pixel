@@ -1,7 +1,7 @@
 # 👋 Hey, ich bin Benjamin!
 Ich bin ein Jugendlicher aus Deutschland, der sich seit mehreren Jahren mit **Künstlicher Intelligenz** und **KI-Ethik** beschäftigt – und das ist nicht nur ein Hobby. Ich will das in Zukunft auch **beruflich machen**, weil ich das Thema unglaublich spannend finde. Und da es viel Potential in der Zukunft hat.
 
-**Ich lerne momentan** Kotlin für Android App Entwicklung. 
+**Ich lerne momentan** Kotlin für Android App Entwicklung. (Ich mag Kotlin nicht)
 
 --- 
 
