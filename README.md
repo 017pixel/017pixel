@@ -77,6 +77,9 @@ print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
 > Komplett im Browser umgesetzt – keine Serverkosten, keine Registrierung, alles smart.  
 > Ich habe ihn selbst programmiert, mit viel Leidenschaft, ganz viel Code und natürlich ein bisschen Hilfe von KI. 
 
+## 👀 Woran ich momentan arbeite: DailyQuest 
+Meine Sportapp (PWA) die mein Training tracken kann. Gamified, schön, clean, viele Features. Ich nehme mit dieser PWA bei "Jugend Forscht" 2026 Teil. Arbeite momentan sehr viel daran.
+
 ## ✨ Warum ich das alles mache:
 
 Ich liebe es einfach, Dinge zu bauen, die funktionieren, die mir (und vielleicht auch anderen) helfen – und das am liebsten auf meine eigene Art. Ich bin immer offen für neue Ideen, neue Tools und neue Challenges.
