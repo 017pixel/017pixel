@@ -3,6 +3,8 @@ Ich bin ein Jugendlicher aus Deutschland, der sich seit mehreren Jahren mit **K√
 
 **Ich lerne momentan** Kotlin f√ºr Android App Entwicklung. (Ich mag Kotlin nicht)
 
+**Ich arbeite momentan** bei AISCI Ident GmbH. Ich entwickel dort KI Systeme. 
+
 --- 
 
 ```python
