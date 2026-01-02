@@ -73,14 +73,8 @@ print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
 ![](https://nirzak-streak-stats.vercel.app/?user=017pixel&theme=dark&hide_border=false)
 ---
 
-## 🚀 Mein größtes Projekt: BredAI
-
-> **BredAI** ist mein persönlicher KI-Chat- und Sprachassistent.  
-> Komplett im Browser umgesetzt – keine Serverkosten, keine Registrierung, alles smart.  
-> Ich habe ihn selbst programmiert, mit viel Leidenschaft, ganz viel Code und natürlich ein bisschen Hilfe von KI. 
-
-## 👀 Woran ich momentan arbeite: DailyQuest 
-Meine Sportapp (PWA) die mein Training tracken kann. Gamified, schön, clean, viele Features. Ich nehme mit dieser PWA bei "Jugend Forscht" 2026 Teil. Arbeite momentan sehr viel daran.
+## Mein größtes Projekt: DailyQuest
+DailyQuest ist meine eigene Sportapp, die viele Gamification-Elemente nutzt, um Sport erfreudiger zu machen. Ich mache mit dem Projekt bei Jugendforscht 2026 mit, habe schon auf einer Schulmesse mein Projekt vorgestellt. 
 
 ## ✨ Warum ich das alles mache:
 
