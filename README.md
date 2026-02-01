@@ -1,86 +1,299 @@
-# 👋 Hey, ich bin Benjamin!
-Ich bin ein Jugendlicher aus Deutschland, der sich seit mehreren Jahren mit **Künstlicher Intelligenz** und **KI-Ethik** beschäftigt – und das ist nicht nur ein Hobby. Ich will das in Zukunft auch **beruflich machen**, weil ich das Thema unglaublich spannend finde. Und da es viel Potential in der Zukunft hat.
+<div align="center">
 
-**Ich lerne momentan** Kotlin für Android App Entwicklung. (Ich mag Kotlin nicht)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6B8E7B&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+ich+bin+Benjamin!;15+Jahre+alt+aus+%F0%9F%87%A9%F0%9F%87%AA;KI+Entwickler+%26+Ethik+Enthusiast;AGI+Vision%C3%A4r+%F0%9F%A4%96;Gratis-Tools+Maker+%F0%9F%9A%80)
 
-**Ich arbeite momentan** bei AISCI Ident GmbH. Ich entwickel dort KI Systeme. 
+[![Profile Views](https://komarev.com/ghpvc/?username=017pixel&color=6B8E7B&style=for-the-badge)](https://github.com/017pixel)
+[![GitHub followers](https://img.shields.io/github/followers/017pixel?color=6B8E7B&style=for-the-badge&logo=github&logoColor=white)](https://github.com/017pixel)
+[![GitHub User's stars](https://img.shields.io/github/stars/017pixel?color=6B8E7B&style=for-the-badge&logo=github&logoColor=white)](https://github.com/017pixel)
 
---- 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## 🎯 Über mich
 
 ```python
-import time
+class Benjamin:
+    def __init__(self):
+        self.name = "Benjamin Becker"
+        self.age = 15
+        self.location = "🇩🇪 Deutschland"
+        self.role = "KI Entwickler bei AISCI Ident GmbH"
+        self.mission = "AGI erschaffen & KI-Ethik voranbringen"
+        self.currently_learning = "Kotlin (ich mag es nicht 😭)"
+        
+    def get_hobbies(self):
+        return ["Programmieren", "KI-Forschung", "Sport", "Jugend forscht"]
+    
+    def get_philosophy(self):
+        return "Starke Projekte ohne Budget zeigen, dass Geld nicht alles ist!"
 
-name = "Benjamin"
-alter = 14
-hobbys = ["Programmieren", "Lernen", "Sport"]
-
-print(f"Ich bin {name} und bin {alter} Jahre alt.")
-time.sleep(1)
-print("Meine Hobbys sind: " + ", ".join(hobbys) + ".")
+me = Benjamin()
+print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
 ```
 
-## 💻 Was ich so mache
+<div align="center">
 
--  Ich baue gerne eigene Web-Apps mit **HTML**, **CSS** und **JavaScript** – oft als kostenlose Alternativen zu teuren Tools.  
--  Beim Coden nutze ich häufig **KI-Unterstützung**, weil’s entspannt ist und mir hilft, schneller voranzukommen.  
--  Für komplexere Logik oder KI-Zeug ist **Python** meine Lieblingssprache – bin darin auch relativ gut.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=8FBC8F&center=true&vCenter=true&width=800&height=40&lines=%22Ich+baue+kostenlose+Alternativen+zu+teuren+Tools%22;%22KI+ist+nicht+nur+mein+Hobby%2C+sondern+meine+Zukunft%22;%22Mit+15+Jahren+AGI+entwickeln+-+why+not%3F%22)
 
----
-
-## 🤖 KI ist mein Ding
-
--  Ich nutze oft **kostenlose KI-APIs** wie Gemini, um smarte Features in meine Projekte einzubauen.  
--  Mein Ziel: Zeigen, dass man auch **ohne Geld** starke Projekte bauen kann – aus Prinzip (und vll, weil ich bissl broke bin 😭).  
--  Wenn ich was lerne, dann richtig – mit Konzentration, Fokus und auch Spaß an neuer Technik!
-
-
-
---- 
-
-## ✅ Kann ich gut
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-
-## 🛠️ Kann ich nicht gut / lerne ich momentan
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-
-
-## 🤖 Meine AI-Tools
-
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-101828?style=for-the-badge&logo=Anthropic&logoColor=white)
-
-
-
-## 💻 Meine Editoren / Plattformen
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Gemini AI Studio](https://img.shields.io/badge/Gemini%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Firebase Studio](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=017pixel&theme=dark&hide_border=false)
----
-
-## Mein größtes Projekt: DailyQuest
-DailyQuest ist meine eigene Sportapp, die viele Gamification-Elemente nutzt, um Sport erfreudiger zu machen. Ich mache mit dem Projekt bei Jugendforscht 2026 mit, habe schon auf einer Schulmesse mein Projekt vorgestellt. 
-
-## ✨ Warum ich das alles mache:
-
-Ich liebe es einfach, Dinge zu bauen, die funktionieren, die mir (und vielleicht auch anderen) helfen – und das am liebsten auf meine eigene Art. Ich bin immer offen für neue Ideen, neue Tools und neue Challenges.
+</div>
 
 ---
 
-📬 Schreib mir gerne: [beckerbenjamin2010@gmail.com](mailto:beckerbenjamin2010@gmail.com)  
-Ich bin immer offen für Austausch oder Feedback!
+## 🛠️ Mein Tech-Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+      <br><strong>Python</strong>
+      <br><sub>⭐⭐⭐⭐⭐</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
+      <br><strong>JavaScript</strong>
+      <br><sub>⭐⭐⭐⭐</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/>
+      <br><strong>HTML5</strong>
+      <br><sub>⭐⭐⭐⭐⭐</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/>
+      <br><strong>CSS3</strong>
+      <br><sub>⭐⭐⭐⭐</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" alt="Kotlin"/>
+      <br><strong>Kotlin</strong>
+      <br><sub>💀 Lernend</sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code"/>
+      <br><strong>VS Code</strong>
+      <br><sub>Cursor, Windsurf</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="50" height="50" alt="Android Studio"/>
+      <br><strong>Android Studio</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/>
+      <br><strong>Firebase</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
+      <br><strong>Git</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤖 Meine KI-Tools
+
+<table align="center">
+  <tr>
+    <th>🧠 Tool</th>
+    <th>🔧 Verwendung</th>
+    <th>💰 Kosten</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/opencode-6B8E7B?style=for-the-badge&logo=openai&logoColor=white" alt="opencode"/>
+    </td>
+    <td>CLI KI-Assistant für Coding & Datei-Editing</td>
+    <td align="center">🆓 <b>Kostenlos</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/kilo_code-6B8E7B?style=for-the-badge&logo=codeigniter&logoColor=white" alt="kilo code"/>
+    </td>
+    <td>AI IDE für Code-Generierung</td>
+    <td align="center">🆓 <b>Kostenlos</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/antigravity-6B8E7B?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="antigravity"/>
+    </td>
+    <td>VS Code Fork - KI Editor</td>
+    <td align="center">🆓 <b>Kostenlos</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+    </td>
+    <td>API Integration, Chatbots, Content Generierung</td>
+    <td align="center">🆓 <b>Kostenlos</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+    </td>
+    <td>Code Reviews, Brainstorming, Debugging</td>
+    <td align="center">🆓 Free Tier</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Claude-101828?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+    </td>
+    <td>Komplexe Analyse, Dokumentation, Planung</td>
+    <td align="center">🆓 Free Tier</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="Copilot"/>
+    </td>
+    <td>Code Completion, Autocomplete</td>
+    <td align="center">🎓 Free (Pro)</td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Meine KI-Modelle
+
+<table align="center">
+  <tr>
+    <th>🏢 Anbieter</th>
+    <th>🤖 Modelle</th>
+    <th>⚡ Stärken</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Anthropic-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+    </td>
+    <td><b>Claude Opus 4 / 4.5</b></td>
+    <td>Komplexe Analyse, Coding, Reasoning</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/>
+    </td>
+    <td><b>Gemini Flash 3</b> & <b>Gemini 3 Pro</b></td>
+    <td>Multimodal, schnell, kostenlos verfügbar</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Moonshot_AI-6B8E7B?style=for-the-badge&logo=moonshot&logoColor=white" alt="Moonshot AI"/>
+    </td>
+    <td><b>Kimi K2.5</b></td>
+    <td>Lange Kontexte, Coding, Dokumentenanalyse</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=minimax&logoColor=white" alt="MiniMax"/>
+    </td>
+    <td><b>MiniMax 2.1</b></td>
+    <td>Kreative Aufgaben, Konversation</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Meine Top Projekte
+
+<div align="center">
+
+### 🧠 CHAPPiE - "Irgendwie eine AGI"
+
+<table>
+  <tr>
+    <td width="400">
+      <a href="https://github.com/017pixel/CHAPPiE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=017pixel&repo=CHAPPiE&theme=dracula&hide_border=true&bg_color=1D1F21&title_color=6B8E7B&icon_color=6B8E7B" alt="CHAPPiE"/>
+      </a>
+    </td>
+    <td>
+      <b>🎯 Vision:</b> Ein AGI-Lernsystem erschaffen<br><br>
+      <b>🔧 Tech:</b> Python, KI-Modelle, NLP<br><br>
+      <b>⭐ Status:</b> Aktive Entwicklung<br><br>
+      <b>📝 Beschreibung:</b><br>
+      Mein ambitioniertestes Projekt - ein lernfähiges KI-System, das sich kontinuierlich weiterentwickelt. Die Grundlage für meine AGI-Vision.
+    </td>
+  </tr>
+</table>
+
+### ⚔️ DailyQuest - Sport trifft Solo Leveling
+
+<table>
+  <tr>
+    <td width="400">
+      <a href="https://github.com/017pixel/DailyQuest">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=017pixel&repo=DailyQuest&theme=dracula&hide_border=true&bg_color=1D1F21&title_color=6B8E7B&icon_color=6B8E7B" alt="DailyQuest"/>
+      </a>
+    </td>
+    <td>
+      <b>🎯 Vision:</b> Sport gamifiziert machen<br><br>
+      <b>🔧 Tech:</b> JavaScript, Web-App, Gamification<br><br>
+      <b>🏆 Achievement:</b> Jugend forscht 2026<br><br>
+      <b>📝 Beschreibung:</b><br>
+      Ein Sport-Tracker inspiriert vom Anime Solo Leveling. Tägliche Quests, XP-System, Level-ups - macht Sport zum Abenteuer! Bereits auf einer Schulmesse vorgestellt.
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Contribution Animation
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=017pixel&theme=react-dark&hide_border=true&bg_color=1D1F21&color=6B8E7B&line=6B8E7B&point=8FBC8F)
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+## ✨ Warum ich das alles mache
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8FBC8F&center=true&vCenter=true&width=900&height=60&lines=Ich+liebe+es%2C+Dinge+zu+bauen%2C+die+funktionieren;KI+sollte+für+alle+zugänglich+sein%2C+nicht+nur+für+Großkonzerne;Mit+15+zeige+ich%2C+dass+Alter+keine+Grenze+ist;Jede+Zeile+Code+bringt+mich+meinem+AGI-Traum+näher)
+
+</div>
+
+> 💭 **Wie ich denke:** *"Ich baue nicht nur Apps - ich baue die Zukunft, die ich mir vorstelle. Kostenlos. Open Source. Für alle."*
+
+---
+
+## 🎯 Aktuelle Ziele
+
+- [x] CHAPPiE Grundstruktur entwickeln
+- [x] DailyQuest für Jugend forscht 2026 vorbereiten
+- [ ] Kotlin lernen (obwohl ich es nicht mag 😅)
+- [ ] Erste AGI-Prototype-Tests
+- [ ] Community um CHAPPiE aufbauen
+
+---
+
+<div align="center">
+
+### 🤝 Lass uns verbinden!
+
+[![Email](https://img.shields.io/badge/Email-beckerbenjamin2010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beckerbenjamin2010@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-017pixel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/017pixel)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8E7B,100:8FBC8F&height=120&section=footer&animation=twinkling"/>
+
+**Danke fürs Vorbeischauen!** 🚀
+
+</div>
