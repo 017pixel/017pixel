@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6B8E7B&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+ich+bin+Benjamin!;15+Jahre+alt+aus+%F0%9F%87%A9%F0%9F%87%AA;KI+Entwickler+%26+Ethik+Enthusiast;AGI+Vision%C3%A4r+%F0%9F%A4%96;Gratis-Tools+Maker+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6B8E7B&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+ich+bin+Benjamin!;15+Jahre+alt+aus+Deutschland;KI+Entwickler+%26+Ethik+Enthusiast;AGI+Vision%C3%A4r;Gratis-Tools+Maker)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=017pixel&color=6B8E7B&style=for-the-badge)](https://github.com/017pixel)
 [![GitHub followers](https://img.shields.io/github/followers/017pixel?color=6B8E7B&style=for-the-badge&logo=github&logoColor=white)](https://github.com/017pixel)
@@ -209,17 +209,16 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
 
 <table>
   <tr>
-    <td width="400">
+    <td width="350">
       <a href="https://github.com/017pixel/CHAPPiE">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=017pixel&repo=CHAPPiE&theme=dracula&hide_border=true&bg_color=1D1F21&title_color=6B8E7B&icon_color=6B8E7B" alt="CHAPPiE"/>
       </a>
     </td>
     <td>
-      <b>🎯 Vision:</b> Ein AGI-Lernsystem erschaffen<br><br>
-      <b>🔧 Tech:</b> Python, KI-Modelle, NLP<br><br>
-      <b>⭐ Status:</b> Aktive Entwicklung<br><br>
-      <b>📝 Beschreibung:</b><br>
-      Mein ambitioniertestes Projekt - ein lernfähiges KI-System, das sich kontinuierlich weiterentwickelt. Die Grundlage für meine AGI-Vision.
+      <b>Vision:</b> Ein AGI-Lernsystem erschaffen<br>
+      <b>Tech:</b> Python, KI-Modelle, NLP<br>
+      <b>Status:</b> Aktive Entwicklung<br><br>
+      Ein lernfähiges KI-System, das sich kontinuierlich weiterentwickelt.
     </td>
   </tr>
 </table>
@@ -228,17 +227,16 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
 
 <table>
   <tr>
-    <td width="400">
+    <td width="350">
       <a href="https://github.com/017pixel/DailyQuest">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=017pixel&repo=DailyQuest&theme=dracula&hide_border=true&bg_color=1D1F21&title_color=6B8E7B&icon_color=6B8E7B" alt="DailyQuest"/>
       </a>
     </td>
     <td>
-      <b>🎯 Vision:</b> Sport gamifiziert machen<br><br>
-      <b>🔧 Tech:</b> JavaScript, Web-App, Gamification<br><br>
-      <b>🏆 Achievement:</b> Jugend forscht 2026<br><br>
-      <b>📝 Beschreibung:</b><br>
-      Ein Sport-Tracker inspiriert vom Anime Solo Leveling. Tägliche Quests, XP-System, Level-ups - macht Sport zum Abenteuer! Bereits auf einer Schulmesse vorgestellt.
+      <b>Vision:</b> Sport gamifiziert machen<br>
+      <b>Tech:</b> JavaScript, Web-App, Gamification<br>
+      <b>Achievement:</b> Jugend forscht 2026<br><br>
+      Sport-Tracker inspiriert vom Anime Solo Leveling mit täglichen Quests & Level-ups.
     </td>
   </tr>
 </table>
