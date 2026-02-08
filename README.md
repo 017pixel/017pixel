@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6B8E7B&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+ich+bin+Benjamin;15+Jahre+alt+aus+Deutschland;Ich+baue+gerne+mit+KI;Ich+teste+viel+und+lerne+jeden+Tag;Open-Source+++kostenlose+Tools)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6B8E7B&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+ich+bin+Benjamin;15+Jahre+alt+aus+Deutschland;Ich+baue+gerne+mit+KI;Teste+viel+,+lerne+jeden+Tag;Open-Source+,+kostenlose+Tools)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=017pixel&color=6B8E7B&style=for-the-badge)](https://github.com/017pixel)
 [![GitHub followers](https://img.shields.io/github/followers/017pixel?color=6B8E7B&style=for-the-badge&logo=github&logoColor=white)](https://github.com/017pixel)
