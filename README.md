@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6B8E7B&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+ich+bin+Benjamin!;15+Jahre+alt+aus+Deutschland;KI+Entwickler+%26+Ethik+Enthusiast;AGI+Vision%C3%A4r;Gratis-Tools+Maker)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6B8E7B&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+ich+bin+Benjamin;15+Jahre+alt+aus+Deutschland;Ich+baue+gerne+mit+KI;Ich+teste+viel+und+lerne+jeden+Tag;Open-Source+und+kostenlose+Tools)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=017pixel&color=6B8E7B&style=for-the-badge)](https://github.com/017pixel)
 [![GitHub followers](https://img.shields.io/github/followers/017pixel?color=6B8E7B&style=for-the-badge&logo=github&logoColor=white)](https://github.com/017pixel)
@@ -34,7 +34,7 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=8FBC8F&center=true&vCenter=true&width=800&height=40&lines=%22Ich+baue+kostenlose+Alternativen+zu+teuren+Tools%22;%22KI+ist+nicht+nur+mein+Hobby%2C+sondern+meine+Zukunft%22;%22Mit+15+Jahren+AGI+entwickeln+-+why+not%3F%22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=8FBC8F&center=true&vCenter=true&width=800&height=40&lines=%22Ich+baue+Tools%2C+die+im+Alltag+wirklich+helfen%22;%22KI+macht+mir+Spa%C3%9F+-+darum+bleibe+ich+dran%22;%22Ich+probiere+viel+aus+und+teile%2C+was+funktioniert%22)
 
 </div>
 
@@ -84,8 +84,8 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
       <br><strong>Android Studio</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/>
-      <br><strong>Firebase</strong>
+      <img src="https://skillicons.dev/icons?i=streamlit" width="50" height="50" alt="Streamlit"/>
+      <br><strong>Streamlit</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
@@ -173,8 +173,15 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
     <td align="center">
       <img src="https://img.shields.io/badge/Anthropic-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
     </td>
-    <td><b>Claude Opus 4 / 4.5</b></td>
+    <td><b>Claude Opus 4.5</b> & <b>Claude Sonnet 4.5</b></td>
     <td>Komplexe Analyse, Coding, Reasoning</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+    </td>
+    <td><b>GPT 5.2</b></td>
+    <td>Stark im Coding, Reasoning, saubere Umsetzung</td>
   </tr>
   <tr>
     <td align="center">
@@ -263,7 +270,7 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8FBC8F&center=true&vCenter=true&width=900&height=60&lines=Ich+liebe+es%2C+Dinge+zu+bauen%2C+die+funktionieren;KI+sollte+für+alle+zugänglich+sein%2C+nicht+nur+für+Großkonzerne;Mit+15+zeige+ich%2C+dass+Alter+keine+Grenze+ist;Jede+Zeile+Code+bringt+mich+meinem+AGI-Traum+näher)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8FBC8F&center=true&vCenter=true&width=900&height=60&lines=Ich+baue+gerne+Sachen%2C+die+wirklich+funktionieren;KI+soll+einfach+zug%C3%A4nglich+sein+-+f%C3%BCr+alle;Ich+lerne+jeden+Tag+dazu+und+verbessere+meine+Projekte;Code%2C+testen%2C+fixen+-+und+weiter)
 
 </div>
 
