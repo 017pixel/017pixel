@@ -84,8 +84,6 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
       <br><strong>Android Studio</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/>
-      <br><strong>Firebase</strong>
       <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" height="50" alt="Streamlit"/>
       <br><strong>Streamlit</strong>
     </td>
