@@ -112,7 +112,7 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
     <td align="center">
       <img src="https://img.shields.io/badge/opencode-6B8E7B?style=for-the-badge&logo=openai&logoColor=white" alt="opencode"/>
     </td>
-    <td>Code-Editor mit KI</td>
+    <td>Code-TUI mit KI</td>
     <td align="center">🆓 Gratis</td>
   </tr>
   <tr>
@@ -120,14 +120,14 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
       <img src="https://img.shields.io/badge/Claude-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
     </td>
     <td>Reasoning, Coding, Analyse</td>
-    <td align="center">💰 Pro</td>
+    <td align="center">🆓 Gratis</td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
     </td>
     <td>Coding, Brainstorming</td>
-    <td align="center">💰 Pro</td>
+    <td align="center">🆓 Gratis</td>
   </tr>
   <tr>
     <td align="center">
@@ -140,7 +140,7 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
     <td align="center">
       <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="Copilot"/>
     </td>
-    <td>Code Completion, Autocomplete</td>
+    <td>Pro gratis bekommen</td>
     <td align="center">🎓 Free (Pro)</td>
   </tr>
 </table>
