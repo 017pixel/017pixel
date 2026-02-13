@@ -76,8 +76,8 @@ print(f"Ich bin {me.name}, {me.age} - {me.mission}")
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
-      <br><strong>VS Code</strong>
-    </td>
+      <br><strong</strong>
+    >VS Code</td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio"/>
       <br><strong>Android</strong>
@@ -121,11 +121,11 @@ print(f"Ich bin {me.name}, {me.age} - {me.mission}")
 
 | Anbieter | Modelle | Stärken |
 |:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Anthropic-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/> | Claude Opus 4.5, Sonnet 4.5 | Coding, Reasoning |
-| <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> | GPT 5.2 | Coding, saubere Umsetzung |
-| <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/> | Gemini Flash 3, Pro | Multimodal, schnell |
-| <img src="https://img.shields.io/badge/Moonshot-6B8E7B?style=for-the-badge&logo=moonshot&logoColor=white" alt="Moonshot"/> | Kimi K2.5 | Lange Kontexte |
-| <img src="https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=minimax&logoColor=white" alt="MiniMax"/> | MiniMax 2.5 | Kreativ, Konversation |
+| <img src="https://img.shields.io/badge/Anthropic-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/> | Claude Opus 4.5, Sonnet 4.5 | Coding, komplexe Analyse |
+| <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> | GPT 5.2 | Debugging, saubere Umsetzung |
+| <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/> | Gemini Flash 3, Pro | Erste Versionen, Design |
+| <img src="https://img.shields.io/badge/Moonshot-6B8E7B?style=for-the-badge&logo=moonshot&logoColor=white" alt="Moonshot"/> | Kimi K2.5 | Lange, einfachere Aufgaben |
+| <img src="https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=minimax&logoColor=white" alt="MiniMax"/> | MiniMax 2.5 | Coding (kostenlos, ähnlich gut wie Opus) |
 
 </div>
 
@@ -139,20 +139,8 @@ print(f"Ich bin {me.name}, {me.age} - {me.mission}")
 |:---:|:---:|
 | **CHAPPiE** | **DailyQuest** |
 | *Mein AGI-Projekt* | *Jugend forscht 2026* |
-| <ul><li>Zwei-Schritte KI-Architektur</li><li>Mehrschichtiges Gedächtnis</li><li>Autonomes Training 24/7</li></ul> | <ul><li>Gamified Sport-Tracker</li><li>Level-System, Dungeons</li><li>PWA mit Offline-Support</li></ul> |
+| <ul><li>Zwei-Schritte KI-Architektur</li><li>Mehrschichtiges Gedächtnis</li><li>Autonomes Training 24/7</li></ul> | <ul><li>Gamified Sport-Tracker</li><li>Level-System, Dungeons</li><li>PWA (installierbar)</li></ul> |
 | <img src="https://img.shields.io/badge/Status-In_Entwicklung-yellow?style=for-the-badge"/> | <img src="https://img.shields.io/badge/Status-Beta-green?style=for-the-badge"/> |
-
-</div>
-
----
-
-## Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=017pixel&theme=transparent&hide_border=true&bg_color=1D1F21&text_color=6B8E7B&rank_icon=github&show_icons=true&icon_color=6B8E7B)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=017pixel&theme=transparent&hide_border=true&bg_color=1D1F21&text_color=6B8E7B&layout=compact&langs_count=6)
 
 </div>
 
