@@ -101,25 +101,33 @@ print(f"Ich bin {me.name}, {me.age} - {me.mission}")
 
 ## KI-Tools
 
+<div align="center">
+
 | Tool | Verwendung | Kosten |
-|------|------------|--------|
+|:---:|:---:|:---:|
 | <img src="https://img.shields.io/badge/opencode-6B8E7B?style=for-the-badge&logo=openai&logoColor=white" alt="opencode"/> | Code-TUI mit KI | Gratis |
 | <img src="https://img.shields.io/badge/Claude-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/> | Reasoning, Coding | Gratis |
 | <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/> | Coding, Brainstorming | Gratis |
 | <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/> | Multimodal | Free Tier |
 | <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="Copilot"/> | Coding Assist | Free Pro |
 
+</div>
+
 ---
 
 ## KI-Modelle
 
+<div align="center">
+
 | Anbieter | Modelle | Stärken |
-|----------|---------|---------|
+|:---:|:---:|:---:|
 | <img src="https://img.shields.io/badge/Anthropic-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/> | Claude Opus 4.5, Sonnet 4.5 | Coding, Reasoning |
 | <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> | GPT 5.2 | Coding, saubere Umsetzung |
 | <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/> | Gemini Flash 3, Pro | Multimodal, schnell |
 | <img src="https://img.shields.io/badge/Moonshot-6B8E7B?style=for-the-badge&logo=moonshot&logoColor=white" alt="Moonshot"/> | Kimi K2.5 | Lange Kontexte |
-| <img src="https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=minimax&logoColor=white" alt="MiniMax"/> | MiniMax 2.1 | Kreativ, Konversation |
+| <img src="https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=minimax&logoColor=white" alt="MiniMax"/> | MiniMax 2.5 | Kreativ, Konversation |
+
+</div>
 
 ---
 
@@ -131,7 +139,7 @@ print(f"Ich bin {me.name}, {me.age} - {me.mission}")
 |:---:|:---:|
 | **CHAPPiE** | **DailyQuest** |
 | *Mein AGI-Projekt* | *Jugend forscht 2026* |
-| Lernendes KI-System mit Gedächtnis, Emotionen | KI-To-Do mit Gamification |
+| <ul><li>Zwei-Schritte KI-Architektur</li><li>Mehrschichtiges Gedächtnis</li><li>Autonomes Training 24/7</li></ul> | <ul><li>Gamified Sport-Tracker</li><li>Level-System, Dungeons</li><li>PWA mit Offline-Support</li></ul> |
 | <img src="https://img.shields.io/badge/Status-In_Entwicklung-yellow?style=for-the-badge"/> | <img src="https://img.shields.io/badge/Status-Beta-green?style=for-the-badge"/> |
 
 </div>
