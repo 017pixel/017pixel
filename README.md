@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6B8E7B&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+ich+bin+Benjamin;15+Jahre+alt+aus+Deutschland;Ich+baue+gerne+mit+KI;Ich+teste+viel+und+lerne+jeden+Tag;Open-Source+und+kostenlose+Tools)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=6B8E7B&center=true&vCenter=true&width=500&height=70&lines=Hey,+ich+bin+Benjamin;15+Jahre+aus+Deutschland;KI-Entwickler+bei+AISCI)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=017pixel&color=6B8E7B&style=for-the-badge)](https://github.com/017pixel)
 [![GitHub followers](https://img.shields.io/github/followers/017pixel?color=6B8E7B&style=for-the-badge&logo=github&logoColor=white)](https://github.com/017pixel)
@@ -10,89 +10,88 @@
 
 </div>
 
-## 🎯 Über mich
+## Über mich
 
 ```python
 class Benjamin:
     def __init__(self):
         self.name = "Benjamin Becker"
         self.age = 15
-        self.location = "🇩🇪 Deutschland"
+        self.location = "Deutschland"
         self.role = "KI Entwickler bei AISCI Ident GmbH"
         self.mission = "AGI erschaffen & KI-Ethik voranbringen"
-        self.currently_learning = "Kotlin (ich mag es nicht 😭)"
+        self.currently_learning = "Kotlin (nicht mein Favorite)"
         
     def get_hobbies(self):
         return ["Programmieren", "KI-Forschung", "Sport", "Jugend forscht"]
     
     def get_philosophy(self):
-        return "Starke Projekte ohne Budget zeigen, dass Geld nicht alles ist!"
+        return "Projekte ohne Budget zeigen, dass Geld nicht alles ist!"
 
 me = Benjamin()
-print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
+print(f"Ich bin {me.name}, {me.age} - {me.mission}")
 ```
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=8FBC8F&center=true&vCenter=true&width=800&height=40&lines=%22Ich+baue+Tools%2C+die+im+Alltag+wirklich+helfen%22;%22KI+macht+mir+Spa%C3%9F+-+darum+bleibe+ich+dran%22;%22Ich+probiere+viel+aus+und+teile%2C+was+funktioniert%22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8FBC8F&center=true&vCenter=true&width=600&height=35&lines=%22Ich+baue+Tools%2C+die+funktionieren%22;%22KI+soll+f%C3%BCr+alle+zug%C3%A4nglich+sein%22)
 
 </div>
 
 ---
 
-## 🛠️ Mein Tech-Stack
+## Tech-Stack
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
       <br><strong>Python</strong>
       <br><sub>⭐⭐⭐⭐⭐</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
       <br><strong>JavaScript</strong>
       <br><sub>⭐⭐⭐⭐</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/>
       <br><strong>HTML5</strong>
       <br><sub>⭐⭐⭐⭐⭐</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/>
       <br><strong>CSS3</strong>
       <br><sub>⭐⭐⭐⭐</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" alt="Kotlin"/>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="45" height="45" alt="Kotlin"/>
       <br><strong>Kotlin</strong>
-      <br><sub>💀 Lernend</sub>
+      <br><sub>Lernend</sub>
     </td>
   </tr>
 </table>
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code"/>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
       <br><strong>VS Code</strong>
-      <br><sub>Cursor, Windsurf</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="50" height="50" alt="Android Studio"/>
-      <br><strong>Android Studio</strong>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio"/>
+      <br><strong>Android</strong>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" height="50" alt="Streamlit"/>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="45" height="45" alt="Streamlit"/>
       <br><strong>Streamlit</strong>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
       <br><strong>GitHub</strong>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
       <br><strong>Git</strong>
     </td>
   </tr>
@@ -100,134 +99,64 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
 
 ---
 
-## 🤖 Meine KI-Tools
+## KI-Tools
 
-<table align="center">
-  <tr>
-    <th>🧠 Tool</th>
-    <th>🔧 Verwendung</th>
-    <th>💰 Kosten</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/opencode-6B8E7B?style=for-the-badge&logo=openai&logoColor=white" alt="opencode"/>
-    </td>
-    <td>Code-TUI mit KI</td>
-    <td align="center">🆓 Gratis</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Claude-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-    </td>
-    <td>Reasoning, Coding, Analyse</td>
-    <td align="center">🆓 Gratis</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-    </td>
-    <td>Coding, Brainstorming</td>
-    <td align="center">🆓 Gratis</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-    </td>
-    <td>Multimodale Aufgaben, Recherche</td>
-    <td align="center">🆓 Free Tier</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="Copilot"/>
-    </td>
-    <td>Pro gratis bekommen</td>
-    <td align="center">🎓 Free (Pro)</td>
-  </tr>
-</table>
+| Tool | Verwendung | Kosten |
+|------|------------|--------|
+| <img src="https://img.shields.io/badge/opencode-6B8E7B?style=for-the-badge&logo=openai&logoColor=white" alt="opencode"/> | Code-TUI mit KI | Gratis |
+| <img src="https://img.shields.io/badge/Claude-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/> | Reasoning, Coding | Gratis |
+| <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/> | Coding, Brainstorming | Gratis |
+| <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/> | Multimodal | Free Tier |
+| <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="Copilot"/> | Coding Assist | Free Pro |
 
 ---
 
-## 🧠 Meine KI-Modelle
+## KI-Modelle
 
-<table align="center">
-  <tr>
-    <th>🏢 Anbieter</th>
-    <th>🤖 Modelle</th>
-    <th>⚡ Stärken</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Anthropic-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
-    </td>
-    <td><b>Claude Opus 4.5</b> & <b>Claude Sonnet 4.5</b></td>
-    <td>Komplexe Analyse, Coding, Reasoning</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-    </td>
-    <td><b>GPT 5.2</b></td>
-    <td>Stark im Coding, Reasoning, saubere Umsetzung</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/>
-    </td>
-    <td><b>Gemini Flash 3</b> & <b>Gemini 3 Pro</b></td>
-    <td>Multimodal, schnell, kostenlos verfügbar</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Moonshot_AI-6B8E7B?style=for-the-badge&logo=moonshot&logoColor=white" alt="Moonshot AI"/>
-    </td>
-    <td><b>Kimi K2.5</b></td>
-    <td>Lange Kontexte, Coding, Dokumentenanalyse</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=minimax&logoColor=white" alt="MiniMax"/>
-    </td>
-    <td><b>MiniMax 2.1</b></td>
-    <td>Kreative Aufgaben, Konversation</td>
-  </tr>
-</table>
+| Anbieter | Modelle | Stärken |
+|----------|---------|---------|
+| <img src="https://img.shields.io/badge/Anthropic-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/> | Claude Opus 4.5, Sonnet 4.5 | Coding, Reasoning |
+| <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> | GPT 5.2 | Coding, saubere Umsetzung |
+| <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/> | Gemini Flash 3, Pro | Multimodal, schnell |
+| <img src="https://img.shields.io/badge/Moonshot-6B8E7B?style=for-the-badge&logo=moonshot&logoColor=white" alt="Moonshot"/> | Kimi K2.5 | Lange Kontexte |
+| <img src="https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=minimax&logoColor=white" alt="MiniMax"/> | MiniMax 2.1 | Kreativ, Konversation |
 
 ---
 
-## 🏆 Projekte-Highlights
+## Projekte
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🤖 CHAPPiE</h3>
-      <p><i>Mein AGI-Projekt</i></p>
-      <p>Ein lernendes KI-System mit Gedächtnis, Emotionen und Selbstwahrnehmung</p>
-      <br>
-      <img src="https://img.shields.io/badge/Status-In_Entwicklung-yellow?style=for-the-badge"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>📝 DailyQuest</h3>
-      <p><i>Jugend forscht 2026</i></p>
-      <p>KI-basierte To-Do App mit Gamification & automatischer Aufgabenplanung</p>
-      <br>
-      <img src="https://img.shields.io/badge/Status-Beta-green?style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
+| | |
+|:---:|:---:|
+| **CHAPPiE** | **DailyQuest** |
+| *Mein AGI-Projekt* | *Jugend forscht 2026* |
+| Lernendes KI-System mit Gedächtnis, Emotionen | KI-To-Do mit Gamification |
+| <img src="https://img.shields.io/badge/Status-In_Entwicklung-yellow?style=for-the-badge"/> | <img src="https://img.shields.io/badge/Status-Beta-green?style=for-the-badge"/> |
 
 </div>
 
 ---
 
-## 📊 Contribution Animation
+## Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=017pixel&theme=transparent&hide_border=true&bg_color=1D1F21&text_color=6B8E7B&rank_icon=github&show_icons=true&icon_color=6B8E7B)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=017pixel&theme=transparent&hide_border=true&bg_color=1D1F21&text_color=6B8E7B&layout=compact&langs_count=6)
+
+</div>
+
+---
+
+## Contribution Graph
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=017pixel&theme=react-dark&hide_border=true&bg_color=1D1F21&color=6B8E7B&line=6B8E7B&point=8FBC8F)
 
-<br><br>
+<br>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
@@ -235,23 +164,11 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
 
 ---
 
-## ✨ Warum ich das alles mache
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8FBC8F&center=true&vCenter=true&width=900&height=60&lines=Ich+baue+gerne+Sachen%2C+die+wirklich+funktionieren;KI+soll+einfach+zug%C3%A4nglich+sein+-+f%C3%BCr+alle;Ich+lerne+jeden+Tag+dazu+und+verbessere+meine+Projekte;Code%2C+testen%2C+fixen+-+und+weiter)
-
-</div>
-
-> 💭 **Wie ich denke:** *"Ich baue nicht nur Apps - ich baue die Zukunft, die ich mir vorstelle. Kostenlos. Open Source. Für alle."*
-
----
-
-## 🎯 Aktuelle Ziele
+## Aktuelle Ziele
 
 - [x] CHAPPiE Grundstruktur entwickeln
-- [x] DailyQuest für Jugend forscht 2026 vorbereiten
-- [ ] Kotlin lernen (obwohl ich es nicht mag 😅)
+- [x] DailyQuest für Jugend forscht vorbereiten
+- [ ] Kotlin lernen
 - [ ] Erste AGI-Prototype-Tests
 - [ ] Community um CHAPPiE aufbauen
 
@@ -259,7 +176,7 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
 
 <div align="center">
 
-### 🤝 Lass uns verbinden!
+### Verbinde dich mit mir!
 
 [![Email](https://img.shields.io/badge/Email-beckerbenjamin2010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beckerbenjamin2010@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-017pixel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/017pixel)
@@ -268,6 +185,6 @@ print(f"Ich bin {me.name}, {me.age} Jahre alt und {me.mission}")
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**⭐ Wenn dir meine Arbeit gefällt, lass gerne einen Star da!**
+**Gib gerne einen Star, wenn dir meine Arbeit gefällt!**
 
 </div>
