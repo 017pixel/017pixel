@@ -123,7 +123,7 @@ print(f"Ich bin {me.name}, {me.age} - {me.mission}")
 |:---:|:---:|:---:|
 | <img src="https://img.shields.io/badge/Anthropic-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/> | Claude Opus 4.5, Sonnet 4.5 | Coding, komplexe Analyse |
 | <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> | GPT 5.2 | Debugging, saubere Umsetzung |
-| <img src="https://img.shields.io/badge/ZhipuAI-2563EB?style=for-the-badge&logo=ai&logoColor=white" alt="Zhipu AI"/> | GLM 5 (Main Coding) | Hauptmodell für Coding |
+| <img src="https://img.shields.io/badge/Z.AI-2563EB?style=for-the-badge&logo=ai&logoColor=white" alt="Zhipu AI"/> | GLM 5 (Main Coding) | Hauptmodell für Coding |
 | <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/> | Gemini Flash 3, Pro | Erste Versionen, Design |
 | <img src="https://img.shields.io/badge/Moonshot-6B8E7B?style=for-the-badge&logo=moonshot&logoColor=white" alt="Moonshot"/> | Kimi K2.5 | Lange, einfachere Aufgaben |
 | <img src="https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=minimax&logoColor=white" alt="MiniMax"/> | MiniMax 2.5 | Coding (kostenlos, ähnlich gut wie Opus) |
