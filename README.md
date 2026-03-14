@@ -21,6 +21,7 @@ class Benjamin:
         self.role = "KI Entwickler bei AISCI Ident GmbH"
         self.mission = "AGI erschaffen & KI-Ethik voranbringen"
         self.currently_learning = "Kotlin (nicht mein Favorite)"
+        self.main_phone = "Nothing Phone 4a :)"
         
     def get_hobbies(self):
         return ["Programmieren", "KI-Forschung", "Sport", "Jugend forscht"]
