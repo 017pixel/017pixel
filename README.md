@@ -138,8 +138,6 @@ print(f"Ich bin {me.name}, {me.age} - {me.mission}")
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=017pixel&theme=react-dark&hide_border=true&bg_color=1D1F21&color=6B8E7B&line=6B8E7B&point=8FBC8F)
 
 <br>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark" alt="Snake" />
-</div>
 
 ---
 
