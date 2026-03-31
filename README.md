@@ -106,28 +106,11 @@ print(f"Ich bin {me.name}, {me.age} - {me.mission}")
 
 | Tool | Verwendung | Kosten |
 |:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/opencode-6B8E7B?style=for-the-badge&logo=openai&logoColor=white" alt="opencode"/> | Code-TUI mit KI | Gratis |
-| <img src="https://img.shields.io/badge/Claude-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/> | Reasoning, Coding | Gratis |
-| <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/> | Coding, Brainstorming | Gratis |
-| <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/> | Multimodal | Free Tier |
-| <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="Copilot"/> | Coding Assist | Free Pro |
-
-</div>
-
----
-
-## KI-Modelle
-
-<div align="center">
-
-| Anbieter | Modelle | Stärken |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Anthropic-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/> | Claude Opus 4.5, Sonnet 4.5 | Coding, komplexe Analyse |
-| <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> | GPT 5.2 | Debugging, saubere Umsetzung |
-| <img src="https://img.shields.io/badge/Z.AI-2563EB?style=for-the-badge&logo=ai&logoColor=white" alt="Zhipu AI"/> | GLM 5 | Hauptmodell für Coding |
-| <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/> | Gemini Flash 3, Pro | Erste Versionen, Design |
-| <img src="https://img.shields.io/badge/Moonshot-6B8E7B?style=for-the-badge&logo=moonshot&logoColor=white" alt="Moonshot"/> | Kimi K2.5 | Lange, einfachere Aufgaben |
-| <img src="https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=minimax&logoColor=white" alt="MiniMax"/> | MiniMax 2.5 (Main Coding) | Coding (kostenlos, ähnlich gut wie Opus) |
+| <img src="https://img.shields.io/badge/opencode-6B8E7B?style=for-the-badge&logo=openai&logoColor=white" alt="opencode"/> | Code-TUI mit AI | Gratis |
+| <img src="https://img.shields.io/badge/Claude-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/> | Design, One Shots | Gratis |
+| <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/> | Coding, Komplexe Aufgaben | Gratis |
+| <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/> | Multimodal, Design | Free Tier |
+| <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="Copilot"/> | Repo Zusammenfassungen | Free Pro |
 
 </div>
 
