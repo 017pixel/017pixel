@@ -129,66 +129,11 @@ print(f"{me.name}, {me.age} - {me.mission}")
 
 ## Meine Tools & Werkzeuge
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openai/7aa88a" width="36" height="36" alt="opencode"/>
-      <br><strong>opencode</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openai/7aa88a" width="36" height="36" alt="Codex"/>
-      <br><strong>Codex</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/googlegemini/7aa88a" width="36" height="36" alt="Gemini"/>
-      <br><strong>Gemini</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VS Code"/>
-      <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=neovim" width="36" height="36" alt="Neovim"/>
-      <br><strong>Neovim</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tmux/7aa88a" width="36" height="36" alt="tmux"/>
-      <br><strong>tmux</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/windowsterminal/7aa88a" width="36" height="36" alt="CMD"/>
-      <br><strong>CMD</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub"/>
-      <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git"/>
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="36" height="36" alt="Vercel"/>
-      <br><strong>Vercel</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase"/>
-      <br><strong>Supabase</strong>
-    </td>
-    <td align="center" width="96">
-      <span style="color: #7aa88a; font-family: 'Courier New', monospace; font-weight: bold; font-size: 22px;">⊡</span>
-      <br><strong>Convex</strong>
-    </td>
-  </tr>
-</table>
-
-</div>
+- **opencode** / **Codex** / **Gemini** – KI-Assistenz
+- **VS Code** / **Neovim** – Code-Editoren
+- **tmux** / **CMD** – Terminal & Multitasking
+- **GitHub** / **Git** – Versionierung
+- **Vercel** / **Supabase** / **Convex** – Hosting & Backend
 
 <br>
 
