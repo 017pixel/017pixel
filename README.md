@@ -66,43 +66,40 @@ print(f"{me.name}, {me.age} - {me.mission}")
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=python" width="42" height="42" alt="Python"/>
       <br><strong>Python</strong>
       <br><img src="https://img.shields.io/badge/Kann%20ich-7aa88a?style=flat-square"/>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=js" width="42" height="42" alt="JavaScript"/>
       <br><strong>JavaScript</strong>
       <br><img src="https://img.shields.io/badge/Kann%20ich-7aa88a?style=flat-square"/>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ts" width="42" height="42" alt="TypeScript"/>
+      <br><strong>TypeScript</strong>
+      <br><img src="https://img.shields.io/badge/Lerne%20ich-4a7a5a?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=html" width="42" height="42" alt="HTML5"/>
       <br><strong>HTML5</strong>
       <br><img src="https://img.shields.io/badge/Kann%20ich-7aa88a?style=flat-square"/>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=css" width="42" height="42" alt="CSS3"/>
       <br><strong>CSS3</strong>
       <br><img src="https://img.shields.io/badge/Kann%20ich-7aa88a?style=flat-square"/>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=kotlin" width="42" height="42" alt="Kotlin"/>
       <br><strong>Kotlin</strong>
       <br><img src="https://img.shields.io/badge/Lerne%20ich-4a7a5a?style=flat-square"/>
     </td>
   </tr>
 </table>
-
-<br>
-
-| Tool | Status |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=vscode" width="24" height="24" alt="VS Code"/> VS Code | <img src="https://img.shields.io/badge/Haupt--Editor-7aa88a?style=flat-square"/> |
-| <img src="https://skillicons.dev/icons?i=androidstudio" width="24" height="24" alt="Android Studio"/> Android Studio | <img src="https://img.shields.io/badge/F%C3%BCr%20Kotlin-4a7a5a?style=flat-square"/> |
-| <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="24" height="24" alt="Streamlit"/> Streamlit | <img src="https://img.shields.io/badge/F%C3%BCr%20KI--Apps-7aa88a?style=flat-square"/> |
-| <img src="https://skillicons.dev/icons?i=github" width="24" height="24" alt="GitHub"/> GitHub | <img src="https://img.shields.io/badge/Versionierung-7aa88a?style=flat-square"/> |
-| <img src="https://skillicons.dev/icons?i=git" width="24" height="24" alt="Git"/> Git | <img src="https://img.shields.io/badge/Versionierung-7aa88a?style=flat-square"/> |
 
 </div>
 
@@ -139,17 +136,70 @@ print(f"{me.name}, {me.age} - {me.mission}")
 
 <br>
 
-## KI-Tools
+## Meine Tools & Werkzeuge
 
 <div align="center">
 
-| Tool | Verwendung | Kosten |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/opencode-4a7a5a?style=for-the-badge&logo=openai&logoColor=white" alt="opencode"/> | Code-TUI mit AI | Gratis |
-| <img src="https://img.shields.io/badge/Claude-4a7a5a?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/> | Design, One Shots | Gratis |
-| <img src="https://img.shields.io/badge/ChatGPT-4a7a5a?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/> | Coding, Komplexe Aufgaben | Gratis |
-| <img src="https://img.shields.io/badge/Gemini-4a7a5a?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/> | Multimodal, Design | Free Tier |
-| <img src="https://img.shields.io/badge/Copilot-4a7a5a?style=for-the-badge&logo=github&logoColor=white" alt="Copilot"/> | Repo Zusammenfassungen | Free Pro |
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openai/7aa88a" width="36" height="36"/>
+      <br><strong>opencode</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openai/7aa88a" width="36" height="36"/>
+      <br><strong>ChatGPT</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openai/7aa88a" width="36" height="36"/>
+      <br><strong>Codex</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/google/7aa88a" width="36" height="36"/>
+      <br><strong>Gemini</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36"/>
+      <br><strong>VS Code</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=neovim" width="36" height="36"/>
+      <br><strong>Neovim</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/tmux/7aa88a" width="36" height="36"/>
+      <br><strong>tmux</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/windows/7aa88a" width="36" height="36"/>
+      <br><strong>CMD</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="36" height="36"/>
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="36" height="36"/>
+      <br><strong>Git</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="36" height="36"/>
+      <br><strong>Vercel</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="36" height="36"/>
+      <br><strong>Supabase</strong>
+    </td>
+    <td align="center" width="96">
+      <span style="color: #7aa88a; font-family: 'Courier New', monospace; font-weight: bold; font-size: 22px;">⊡</span>
+      <br><strong>Convex</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
 
