@@ -1,23 +1,8 @@
 <div align="center">
 
-<pre style="background: #0a0f0c; border: 2px solid #4a7a5a; border-radius: 12px; padding: 20px 24px; font-family: 'Courier New', 'Consolas', monospace; font-size: 14px; line-height: 1.6; color: #a8c5b5; display: inline-block; text-align: left; overflow: auto; box-shadow: 0 0 30px rgba(74,122,90,0.08);">
-<span style="color: #4a7a5a;">┌──────────────────────────────────────────────────┐</span>
-<span style="color: #4a7a5a;">│</span>                                                  <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>     <span style="color: #d0e8d8; font-weight: bold;">██╗  ██╗ ██████╗ ██╗  ██╗██████╗ ██╗██╗  ██╗</span>  <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>     <span style="color: #d0e8d8; font-weight: bold;">██║  ██║██╔═══██╗██║  ██║██╔══██╗██║██║ ██╔╝</span>  <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>     <span style="color: #d0e8d8; font-weight: bold;">███████║██║   ██║███████║██████╔╝██║█████╔╝</span>  <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>     <span style="color: #d0e8d8; font-weight: bold;">██╔══██║██║   ██║██╔══██║██╔═══╝ ██║██╔═██╗</span>  <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>     <span style="color: #d0e8d8; font-weight: bold;">██║  ██║╚██████╔╝██║  ██║██║     ██║██║  ██╗</span>  <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>     <span style="color: #d0e8d8; font-weight: bold;">╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝</span>  <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>                                                  <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>  <span style="color: #7aa88a;">Benjamin Becker</span> <span style="color: #4a7a5a;">·</span> <span style="color: #a8c5b5;">15</span> <span style="color: #4a7a5a;">·</span> <span style="color: #a8c5b5;">KI-Entwickler</span> <span style="color: #4a7a5a;">·</span> <span style="color: #a8c5b5;">Deutschland</span>       <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>                                                  <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>  <span style="color: #28c840;">●</span> <span style="color: #a8c5b5;">Portfolio:</span>  <span style="color: #8ab89a;">017pixel.github.io/portfolio</span>      <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>  <span style="color: #28c840;">●</span> <span style="color: #a8c5b5;">Mission:</span>    <span style="color: #d0e8d8;">AGI erschaffen & KI-Ethik voranbringen</span> <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>  <span style="color: #28c840;">●</span> <span style="color: #a8c5b5;">Status:</span>     <span style="color: #7aa88a;">Coding since 2023</span>                  <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">│</span>                                                  <span style="color: #4a7a5a;">│</span>
-<span style="color: #4a7a5a;">└──────────────────────────────────────────────────┘</span>
-</pre>
+# Benjamin Becker
+### 15 · KI-Entwickler · Deutschland
+### [017pixel.github.io/portfolio](https://017pixel.github.io/portfolio/)
 
 <br>
 
