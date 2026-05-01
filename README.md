@@ -21,7 +21,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=800&color=7AA88A&center=true&vCenter=true&width=600&height=25&lines=%22Projekte+ohne+Budget+zeigen,+dass+Geld+nicht+alles+ist!%22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2200&pause=1200&color=7AA88A&center=true&vCenter=true&width=600&height=35&lines=Hi!+Ich+bin+Benjamin!;Tipp:+Schau+dir+mein+Portfolio+an!!!;Eventuell+ein+Stern+f%C3%BCr+meine+Projekte%3F;Coden+macht+einfach+Spa%C3%9F!;KI-Ethik+ist+mir+wichtig!)
 
 <br>
 
