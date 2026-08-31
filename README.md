@@ -1,22 +1,22 @@
-# Hi, I am Benjamin! 👋
+# Hi, ich bin Benjamin! 👋
 
-15-year-old developer from Germany focused on AI, software development and building real projects.
+Ich bin ein 15-jähriger Entwickler aus Deutschland mit Fokus auf KI, Softwareentwicklung und dem Bau echter Projekte.
 
 [Portfolio](https://017pixel.github.io/portfolio/) · [GitHub](https://github.com/017pixel)
 
-## My best Projects:
+## Meine besten Projekte:
 
-* **CHAPPiE**: Experimental local AI architecture with memory, emotions, reasoning and autonomous learning. [Code](https://github.com/017pixel/CHAPPiE)
-* **DailyQuest**: Gamified fitness PWA. 1st place at Jugend forscht Regional + Digitalization Award. [Code](https://github.com/017pixel/DailyQuest) · [PWA](https://017pixel.github.io/DailyQuest/)
-* **DailyQuest Next**: Rebuilt mobile-first fitness and focus PWA with deeper gamification. Closed source. [Landing Page](https://dailyquest-next.vercel.app/landing-page) · [PWA](https://dailyquest-next.vercel.app/)
-* **Wrapt**: Self-hosted remote development workbench for projects, terminals, editors and coding agents. [Code](https://github.com/017pixel/Wrapt)
-* **Sandbox--Zerstörer**: Physics-based sandbox simulation. [Code](https://github.com/017pixel/Sandbox--Zerstoerer) · [Website / PWA](https://017pixel.github.io/Sandbox--Zerstoerer/)
+* **CHAPPiE**: Experimentelle lokale KI-Architektur mit Gedächtnis, Emotionen, Reasoning und autonomem Lernen. [Code](https://github.com/017pixel/CHAPPiE)
+* **DailyQuest**: Gamifizierte Fitness-PWA. 1. Platz bei Jugend forscht Regional + Sonderpreis Digitalisierung. [Code](https://github.com/017pixel/DailyQuest) · [PWA](https://017pixel.github.io/DailyQuest/)
+* **DailyQuest Next**: Neu entwickelte mobile-first Fitness- und Fokus-PWA mit stärkerer Gamification. Closed Source. [Landingpage](https://dailyquest-next.vercel.app/landing-page) · [PWA](https://dailyquest-next.vercel.app/)
+* **Wrapt**: Selbst gehostete Remote-Development-Workbench für Projekte, Terminals, Editoren und Coding-Agents. [Code](https://github.com/017pixel/Wrapt)
+* **Sandbox--Zerstörer**: Physikbasierte Sandbox-Simulation. [Code](https://github.com/017pixel/Sandbox--Zerstoerer) · [Website / PWA](https://017pixel.github.io/Sandbox--Zerstoerer/)
 
-## My personal goals:
+## Meine persönlichen Ziele:
 
-* Build increasingly capable and useful AI systems.
-* Research AI architectures, agents and long-term memory.
-* Work on safer and more responsible AI.
-* Turn experimental ideas into real, usable software.
+* Immer leistungsfähigere und nützlichere KI-Systeme entwickeln.
+* KI-Architekturen, Agents und Langzeitgedächtnis erforschen.
+* An sichererer und verantwortungsvollerer KI arbeiten.
+* Experimentelle Ideen in echte, nutzbare Software verwandeln.
 
-More about my work and current projects on my [portfolio](https://017pixel.github.io/portfolio/).
+Mehr über meine Arbeit und aktuelle Projekte findest du auf meinem [Portfolio](https://017pixel.github.io/portfolio/).
