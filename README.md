@@ -10,7 +10,7 @@ Ich bin ein 15-jähriger Entwickler aus Deutschland mit Fokus auf KI, Softwareen
 * **DailyQuest**: Gamifizierte Fitness-PWA. 1. Platz bei Jugend forscht Regional + Sonderpreis Digitalisierung. [Code](https://github.com/017pixel/DailyQuest) · [PWA](https://017pixel.github.io/DailyQuest/)
 * **DailyQuest Next**: Neu entwickelte mobile-first Fitness- und Fokus-PWA mit stärkerer Gamification. Closed Source. [Landingpage](https://dailyquest-next.vercel.app/landing-page) · [PWA](https://dailyquest-next.vercel.app/)
 * **Wrapt**: Selbst gehostete Remote-Development-Workbench für Projekte, Terminals, Editoren und Coding-Agents. [Code](https://github.com/017pixel/Wrapt)
-* **Sandbox--Zerstörer**: Physikbasierte Sandbox-Simulation. [Code](https://github.com/017pixel/Sandbox--Zerstoerer) · [Website / PWA](https://017pixel.github.io/Sandbox--Zerstoerer/)
+* **Sandbox-Zerstörer**: Physikbasierte Sandbox-Simulation. [Code](https://github.com/017pixel/Sandbox--Zerstoerer) · [Website / PWA](https://017pixel.github.io/Sandbox--Zerstoerer/)
 
 ## Meine persönlichen Ziele:
 
