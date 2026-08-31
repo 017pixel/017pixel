@@ -4,7 +4,7 @@
 
 [Portfolio](https://017pixel.github.io/portfolio/) · [GitHub](https://github.com/017pixel)
 
-## Projects
+## My best Projects:
 
 * **CHAPPiE**: Experimental local AI architecture with memory, emotions, reasoning and autonomous learning. [Code](https://github.com/017pixel/CHAPPiE)
 * **DailyQuest**: Gamified fitness PWA. 1st place at Jugend forscht Regional + Digitalization Award. [Code](https://github.com/017pixel/DailyQuest) · [PWA](https://017pixel.github.io/DailyQuest/)
@@ -12,7 +12,7 @@
 * **Wrapt**: Self-hosted remote development workbench for projects, terminals, editors and coding agents. [Code](https://github.com/017pixel/Wrapt)
 * **Sandbox--Zerstörer**: Physics-based sandbox simulation. [Code](https://github.com/017pixel/Sandbox--Zerstoerer) · [Website / PWA](https://017pixel.github.io/Sandbox--Zerstoerer/)
 
-## Goals
+## My personal goals:
 
 * Build increasingly capable and useful AI systems.
 * Research AI architectures, agents and long-term memory.
