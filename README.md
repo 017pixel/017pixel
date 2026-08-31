@@ -9,6 +9,7 @@
 * **CHAPPiE**: Experimental local AI architecture with memory, emotions, reasoning and autonomous learning. [Code](https://github.com/017pixel/CHAPPiE)
 * **DailyQuest**: Gamified fitness PWA. 1st place at Jugend forscht Regional + Digitalization Award. [Code](https://github.com/017pixel/DailyQuest) · [PWA](https://017pixel.github.io/DailyQuest/)
 * **DailyQuest Next**: Rebuilt mobile-first fitness and focus PWA with deeper gamification. Closed source. [Landing Page](https://dailyquest-next.vercel.app/landing-page) · [PWA](https://dailyquest-next.vercel.app/)
+* **Wrapt**: Self-hosted remote development workbench for projects, terminals, editors and coding agents. [Code](https://github.com/017pixel/Wrapt)
 * **Sandbox--Zerstörer**: Physics-based sandbox simulation. [Code](https://github.com/017pixel/Sandbox--Zerstoerer) · [Website / PWA](https://017pixel.github.io/Sandbox--Zerstoerer/)
 
 ## Goals
