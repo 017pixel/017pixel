@@ -2,7 +2,7 @@
 
 Ich bin ein 15-jähriger Entwickler aus Deutschland mit Fokus auf KI, Softwareentwicklung und dem Bau echter Projekte.
 
-[Portfolio](https://017pixel.github.io/portfolio/) · [GitHub](https://github.com/017pixel)
+[Portfolio](https://portfolio-017pixel.vercel.app) · [GitHub](https://github.com/017pixel)
 
 ## Meine besten Projekte:
 
@@ -19,4 +19,4 @@ Ich bin ein 15-jähriger Entwickler aus Deutschland mit Fokus auf KI, Softwareen
 * An sichererer und verantwortungsvollerer KI arbeiten.
 * Experimentelle Ideen in echte, nutzbare Software machen.
 
-Mehr über meine Arbeit und aktuelle Projekte findest du auf meinem [Portfolio](https://017pixel.github.io/portfolio/).
+Mehr über meine Arbeit und aktuelle Projekte findest du auf meinem [Portfolio](https://portfolio-017pixel.vercel.app).
